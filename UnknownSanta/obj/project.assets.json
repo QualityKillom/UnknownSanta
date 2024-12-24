@@ -3578,6 +3578,7 @@
       "packagesPath": "C:\\Users\\QualityKillom\\.nuget\\packages\\",
       "outputPath": "D:\\UnknownSanta\\UnknownSanta\\UnknownSanta\\obj\\",
       "projectStyle": "PackageReference",
+      "UsingMicrosoftNETSdk": false,
       "configFilePaths": [
         "C:\\Users\\QualityKillom\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
@@ -3609,8 +3610,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.100"
+      }
     },
     "frameworks": {
       "net9.0": {

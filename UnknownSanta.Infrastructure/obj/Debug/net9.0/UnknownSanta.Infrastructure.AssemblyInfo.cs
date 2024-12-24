@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UnknownSanta.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6fa05156c7802be06fbc4050460ce736af5f6353")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+504e5f8b1b03b3cb51402b75da7a247feb4c333d")]
 [assembly: System.Reflection.AssemblyProductAttribute("UnknownSanta.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UnknownSanta.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

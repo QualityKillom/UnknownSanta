@@ -32,7 +32,7 @@ public class ServiceGenerator
                 var chatType = update.Message.Chat.Type;
                 var userId = update.Message.From.Id;
                 var username = update.Message.From.Username ?? "пользователь";
-                var fullname = (update.Message.From.FirstName + " " + update.Message.From.LastName)?.Trim() ?? "Дим Димыч";
+                var fullname = (update.Message.From.FirstName + " " + update.Message.From.LastName)?.Trim() ?? "Иван Иваныч";
 
                 var messageText = update.Message.Text.Split(' ')[0].ToLower();
 

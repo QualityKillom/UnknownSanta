@@ -8,7 +8,8 @@ public class ApplicationDbContextFactory : IDesignTimeDbContextFactory<Applicati
     public ApplicationDbContext CreateDbContext(string[] args)
     {
         var optionsBuilder = new DbContextOptionsBuilder<ApplicationDbContext>();
-        optionsBuilder.UseSqlite("Data Source=D:\\Santa\\SantaDB.db");
+        // Исправлена строка подключения
+        optionsBuilder.UseSqlite("Data Source=D:/UnknownSanta/SantaDB.db");
         return new ApplicationDbContext(optionsBuilder.Options);
     }
 }
