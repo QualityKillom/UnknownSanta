@@ -1,4 +1,4 @@
-﻿namespace HoHoBot.Domain.ValueObjects.Enums;
+﻿namespace UnknownSanta.Domain.ValueObjects.Enums;
 
 public enum GameState
 {

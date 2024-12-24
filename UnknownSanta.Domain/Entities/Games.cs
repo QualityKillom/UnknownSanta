@@ -1,4 +1,4 @@
-﻿using HoHoBot.Domain.ValueObjects.Enums;
+﻿using UnknownSanta.Domain.ValueObjects.Enums;
 
 namespace UnknownSanta.Domain.Entities;
 

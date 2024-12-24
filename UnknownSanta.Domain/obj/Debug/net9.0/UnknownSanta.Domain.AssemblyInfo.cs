@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UnknownSanta.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26c8d4283a4c06649f86748b603fd681fb95139e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cbc137c9e372c7890befc659fada41e9eb2bded1")]
 [assembly: System.Reflection.AssemblyProductAttribute("UnknownSanta.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UnknownSanta.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,11 +1,11 @@
-﻿using HoHoBot.Domain.ValueObjects.Enums;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 using Telegram.Bot;
 using Telegram.Bot.Exceptions;
 using Telegram.Bot.Types;
 using Telegram.Bot.Types.Enums;
 using Telegram.Bot.Types.ReplyMarkups;
 using UnknownSanta.Domain.Entities;
+using UnknownSanta.Domain.ValueObjects.Enums;
 using UnknownSanta.Infrastructure;
 
 namespace UnknownSantaa.Application.Service;
@@ -554,7 +554,6 @@ public class ServiceGenerator
             new BotCommand { Command = "reset", Description = "Сбросить текущую игру" },
             new BotCommand { Command = "join", Description = "Присоединиться к игре" },
             new BotCommand { Command = "info", Description = "Информация об участниках" },
-            new BotCommand { Command = "snowball", Description = "Бросить снежок" }
         }; 
         
         var privateCommands = new List<BotCommand>
