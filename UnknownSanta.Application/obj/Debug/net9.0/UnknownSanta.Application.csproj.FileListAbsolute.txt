@@ -15,3 +15,4 @@ D:\UnknownSanta\UnknownSanta\UnknownSanta.Application\obj\Debug\net9.0\UnknownSa
 D:\UnknownSanta\UnknownSanta\UnknownSanta.Application\obj\Debug\net9.0\refint\UnknownSanta.Application.dll
 D:\UnknownSanta\UnknownSanta\UnknownSanta.Application\obj\Debug\net9.0\UnknownSanta.Application.pdb
 D:\UnknownSanta\UnknownSanta\UnknownSanta.Application\obj\Debug\net9.0\ref\UnknownSanta.Application.dll
+D:\UnknownSanta\UnknownSanta\UnknownSanta.Application\obj\Debug\net9.0\UnknownSanta.Application.sourcelink.json

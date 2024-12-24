@@ -12,3 +12,4 @@ D:\UnknownSanta\UnknownSanta\UnknownSanta.Domain\obj\Debug\net9.0\refint\Unknown
 D:\UnknownSanta\UnknownSanta\UnknownSanta.Domain\obj\Debug\net9.0\UnknownSanta.Domain.pdb
 D:\UnknownSanta\UnknownSanta\UnknownSanta.Domain\obj\Debug\net9.0\UnknownSanta.Domain.genruntimeconfig.cache
 D:\UnknownSanta\UnknownSanta\UnknownSanta.Domain\obj\Debug\net9.0\ref\UnknownSanta.Domain.dll
+D:\UnknownSanta\UnknownSanta\UnknownSanta.Domain\obj\Debug\net9.0\UnknownSanta.Domain.sourcelink.json

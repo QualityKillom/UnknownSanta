@@ -7,11 +7,8 @@ public class Users
     
     public string TagUserName { get; set; }
     
-    public int Role_Id { get; set; }
-    
     public bool Participle { get; set; }
+    public long Game_Id { get; set; }
     
-    public int Game_Id { get; set; }
-    
-    public long Chat_Id { get; set; }
+    public long Telegram_Id { get; set; }
 }

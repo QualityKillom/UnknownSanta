@@ -135,3 +135,4 @@ D:\UnknownSanta\UnknownSanta\UnknownSanta\bin\Debug\net9.0\UnknownSanta.Infrastr
 D:\UnknownSanta\UnknownSanta\UnknownSanta\bin\Debug\net9.0\UnknownSanta.Application.pdb
 D:\UnknownSanta\UnknownSanta\UnknownSanta\bin\Debug\net9.0\UnknownSanta.Infrastructure.pdb
 D:\UnknownSanta\UnknownSanta\UnknownSanta\bin\Debug\net9.0\UnknownSanta.Domain.pdb
+D:\UnknownSanta\UnknownSanta\UnknownSanta\obj\Debug\net9.0\UnknownSanta.sourcelink.json

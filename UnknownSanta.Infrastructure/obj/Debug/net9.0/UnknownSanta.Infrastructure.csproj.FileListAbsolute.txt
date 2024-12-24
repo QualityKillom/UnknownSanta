@@ -15,3 +15,4 @@ D:\UnknownSanta\UnknownSanta\UnknownSanta.Infrastructure\obj\Debug\net9.0\refint
 D:\UnknownSanta\UnknownSanta\UnknownSanta.Infrastructure\obj\Debug\net9.0\UnknownSanta.Infrastructure.pdb
 D:\UnknownSanta\UnknownSanta\UnknownSanta.Infrastructure\obj\Debug\net9.0\UnknownSanta.Infrastructure.genruntimeconfig.cache
 D:\UnknownSanta\UnknownSanta\UnknownSanta.Infrastructure\obj\Debug\net9.0\ref\UnknownSanta.Infrastructure.dll
+D:\UnknownSanta\UnknownSanta\UnknownSanta.Infrastructure\obj\Debug\net9.0\UnknownSanta.Infrastructure.sourcelink.json

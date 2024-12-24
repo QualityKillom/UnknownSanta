@@ -8,7 +8,7 @@
 
             string botToken = "7511400525:AAEgYvaVMX2TiVqsEHcMTdvFeAFcHzKYWQ0";
             
-            var builder = new ConfigurationBuilder()
+                 var builder = new ConfigurationBuilder()
                 .SetBasePath(AppContext.BaseDirectory)
                 .AddJsonFile("appsettings.json", optional: false, reloadOnChange: true);
             
@@ -28,29 +28,33 @@
             }
 
             var botClient = serviceProvider.GetRequiredService<ITelegramBotClient>();
+            
             var serviceGenerator = serviceProvider.GetRequiredService<ServiceGenerator>(); 
-            var receiverOptions = new ReceiverOptions
-            {
-                AllowedUpdates = { }, 
-            };
             
             using var cts = new CancellationTokenSource();
 
             botClient.StartReceiving(
-                updateHandler: (client, update, token) => serviceGenerator.HandleUpdateAsync(client, update, token),
+                updateHandler: async (client, update, token) => 
+                {
+                    if (update.CallbackQuery != null)
+                    {
+                        await serviceGenerator.HandleCallbackQueryAsync(update.CallbackQuery);
+                    }
+                    else
+                    {
+                        await serviceGenerator.HandleUpdateAsync(update);
+                    }
+                },
                 errorHandler: async (client, exception, token) =>
                 {
                     Console.WriteLine($"Polling error: {exception.Message}");
                     await Task.CompletedTask;
                 },
-                receiverOptions: receiverOptions,
                 cancellationToken: cts.Token
             );
-
-
-
-
+            
             Console.WriteLine("Bot is running... Press any key to exit.");
             Console.ReadKey();
 
             cts.Cancel();
+            
