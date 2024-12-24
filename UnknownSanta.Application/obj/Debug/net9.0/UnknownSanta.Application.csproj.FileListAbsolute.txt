@@ -1,0 +1,17 @@
+D:\UnknownSanta\UnknownSanta\UnknownSanta.Application\bin\Debug\net9.0\UnknownSanta.Application.deps.json
+D:\UnknownSanta\UnknownSanta\UnknownSanta.Application\bin\Debug\net9.0\UnknownSanta.Application.dll
+D:\UnknownSanta\UnknownSanta\UnknownSanta.Application\bin\Debug\net9.0\UnknownSanta.Application.pdb
+D:\UnknownSanta\UnknownSanta\UnknownSanta.Application\bin\Debug\net9.0\UnknownSanta.Domain.dll
+D:\UnknownSanta\UnknownSanta\UnknownSanta.Application\bin\Debug\net9.0\UnknownSanta.Infrastructure.dll
+D:\UnknownSanta\UnknownSanta\UnknownSanta.Application\bin\Debug\net9.0\UnknownSanta.Infrastructure.pdb
+D:\UnknownSanta\UnknownSanta\UnknownSanta.Application\bin\Debug\net9.0\UnknownSanta.Domain.pdb
+D:\UnknownSanta\UnknownSanta\UnknownSanta.Application\obj\Debug\net9.0\UnknownSanta.Application.csproj.AssemblyReference.cache
+D:\UnknownSanta\UnknownSanta\UnknownSanta.Application\obj\Debug\net9.0\UnknownSanta.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\UnknownSanta\UnknownSanta\UnknownSanta.Application\obj\Debug\net9.0\UnknownSanta.Application.AssemblyInfoInputs.cache
+D:\UnknownSanta\UnknownSanta\UnknownSanta.Application\obj\Debug\net9.0\UnknownSanta.Application.AssemblyInfo.cs
+D:\UnknownSanta\UnknownSanta\UnknownSanta.Application\obj\Debug\net9.0\UnknownSanta.Application.csproj.CoreCompileInputs.cache
+D:\UnknownSanta\UnknownSanta\UnknownSanta.Application\obj\Debug\net9.0\UnknownS.D4A39D53.Up2Date
+D:\UnknownSanta\UnknownSanta\UnknownSanta.Application\obj\Debug\net9.0\UnknownSanta.Application.dll
+D:\UnknownSanta\UnknownSanta\UnknownSanta.Application\obj\Debug\net9.0\refint\UnknownSanta.Application.dll
+D:\UnknownSanta\UnknownSanta\UnknownSanta.Application\obj\Debug\net9.0\UnknownSanta.Application.pdb
+D:\UnknownSanta\UnknownSanta\UnknownSanta.Application\obj\Debug\net9.0\ref\UnknownSanta.Application.dll
