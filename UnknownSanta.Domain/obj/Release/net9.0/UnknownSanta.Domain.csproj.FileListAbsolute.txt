@@ -1,0 +1,15 @@
+D:\UnknownSanta\UnknownSanta\UnknownSanta.Domain\bin\Release\net9.0\UnknownSanta.Domain.deps.json
+D:\UnknownSanta\UnknownSanta\UnknownSanta.Domain\bin\Release\net9.0\UnknownSanta.Domain.runtimeconfig.json
+D:\UnknownSanta\UnknownSanta\UnknownSanta.Domain\bin\Release\net9.0\UnknownSanta.Domain.dll
+D:\UnknownSanta\UnknownSanta\UnknownSanta.Domain\bin\Release\net9.0\UnknownSanta.Domain.pdb
+D:\UnknownSanta\UnknownSanta\UnknownSanta.Domain\obj\Release\net9.0\UnknownSanta.Domain.csproj.AssemblyReference.cache
+D:\UnknownSanta\UnknownSanta\UnknownSanta.Domain\obj\Release\net9.0\UnknownSanta.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\UnknownSanta\UnknownSanta\UnknownSanta.Domain\obj\Release\net9.0\UnknownSanta.Domain.AssemblyInfoInputs.cache
+D:\UnknownSanta\UnknownSanta\UnknownSanta.Domain\obj\Release\net9.0\UnknownSanta.Domain.AssemblyInfo.cs
+D:\UnknownSanta\UnknownSanta\UnknownSanta.Domain\obj\Release\net9.0\UnknownSanta.Domain.csproj.CoreCompileInputs.cache
+D:\UnknownSanta\UnknownSanta\UnknownSanta.Domain\obj\Release\net9.0\UnknownSanta.Domain.sourcelink.json
+D:\UnknownSanta\UnknownSanta\UnknownSanta.Domain\obj\Release\net9.0\UnknownSanta.Domain.dll
+D:\UnknownSanta\UnknownSanta\UnknownSanta.Domain\obj\Release\net9.0\refint\UnknownSanta.Domain.dll
+D:\UnknownSanta\UnknownSanta\UnknownSanta.Domain\obj\Release\net9.0\UnknownSanta.Domain.pdb
+D:\UnknownSanta\UnknownSanta\UnknownSanta.Domain\obj\Release\net9.0\UnknownSanta.Domain.genruntimeconfig.cache
+D:\UnknownSanta\UnknownSanta\UnknownSanta.Domain\obj\Release\net9.0\ref\UnknownSanta.Domain.dll
